@@ -28,3 +28,10 @@ Cada servico en una ec2 diferente
 
 ### Funcionamiento del proxy desde consola
 ![image](https://github.com/user-attachments/assets/d3a5e7bd-ceb0-4b67-83b9-1d5935573078)
+
+### Video
+
+
+
+https://github.com/user-attachments/assets/c86b2786-5e7d-458e-8503-e01fcfecf195
+
